@@ -1,0 +1,5 @@
+Who is the father of C language?,James Gosling,Dennis Ritchie,Rasmus Lerdorf,Steve Jobs,b
+Which of the following is not a valid C variable name?,float rate;,int number;,int variable_count;,int $main;,d
+All keywords in C are in ____________.,UpperCase letters,CamelCase letters,LowerCase letters,None of the mentioned,c
+Which of the following is true for variable names in C?,It is not an error to declare a variable to be one of the keywords(like goto static),Variable names cannot start with a digit,Variable can be of any length,They can contain alphanumeric characters as well as special characters,b
+Which is valid C expression?,int $my_num = 10000;,int my num = 1000;,int my_num = 100000;,int my_num = 100&000;,c

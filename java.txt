@@ -1,0 +1,5 @@
+Who invented Java Programming?,Guido van Rossum,James Gosling,Dennis Ritchie,Bjarne Stroustrup,b
+What is the extension of java code files?,.js,.txt,.class,.java,d
+Which component is used to compile debug and execute the java programs?,JRE,JIT,JDK,JVM,c
+Which one of the following is not a Java feature?,Object-oriented,Use of pointers,Portable,Dynamic and Extensible,c
+Which of these cannot be used for a variable name in Java?,identifier & keyword,identifier,keyword,none of the mentioned,b

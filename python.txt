@@ -1,0 +1,5 @@
+Who developed Python Programming Language?,Wick van Rossum,Rasmus Lerdorf,Guido van Rossum,Niene Stom,c
+Which type of Programming does Python support?,Object-oriented programming,Structured programming,Functional programming,All of the mentioned,d
+Is Python case sensitive when dealing with identifiers?,Yes,No,Machine dependent,None of the mentioned,a
+Which of the following is the correct extension of the Python file?,.python,.pl,.py,.p,c
+Is Python code compiled or interpreted?,Python code is both compiled and interpreted,Python code is neither compiled nor interpreted,Python code is only compiled,Python code is only interpreted,a
